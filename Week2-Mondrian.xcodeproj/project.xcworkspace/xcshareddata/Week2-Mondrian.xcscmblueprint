@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FC63F9A6CFF0AA853E2BC0EAAD79E9D78A34DD46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7E1775FFDCBC8B0197DF349B3BFA6CFC2CB3313F" : 9223372036854775807,
+    "FC63F9A6CFF0AA853E2BC0EAAD79E9D78A34DD46" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0C358694-C7D3-43B0-9647-E5ABF5298EDF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7E1775FFDCBC8B0197DF349B3BFA6CFC2CB3313F" : "",
+    "FC63F9A6CFF0AA853E2BC0EAAD79E9D78A34DD46" : "Week2-Mondrian\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Week2-Mondrian",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Week2-Mondrian.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SuZhang37\/OF.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E1775FFDCBC8B0197DF349B3BFA6CFC2CB3313F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SuZhang37\/OF-week2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC63F9A6CFF0AA853E2BC0EAAD79E9D78A34DD46"
+    }
+  ]
+}
